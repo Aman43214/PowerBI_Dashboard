@@ -54,3 +54,10 @@ Explore the dashboards below — each folder includes its own dedicated README w
 
 ====================================
 
+## About This Portfolio
+
+Each dashboard listed above has its own detailed **README.md** file inside its project folder.  
+These files explain the project in simple terms — including the goals, data sources, Power BI techniques used, and a closer look at how each dashboard was built.
+
+
+
